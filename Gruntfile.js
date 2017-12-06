@@ -21,8 +21,7 @@ module.exports = function (grunt) {
                         'escodegen',
                         'underscore',
                         'reflect',
-                        'JSONSelect',
-                        './lib/aesprim.js'
+                        'JSONSelect'
                         //'assert' //can't remove because of lib/index.js,
                     ]
                 }
